@@ -6,3 +6,4 @@
     2. Setup  Express 
     3. Setup handlebars
     4. Add resources
+    5. Setup Static route
