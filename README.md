@@ -2,5 +2,6 @@
 
 
 ## Developing steps. 
-    1. Inital Project Setup
-    2. Setup  Express 
+    1. Inital Project Setup;
+    2. Setup  Express ;
+    3. Setup handlebars
